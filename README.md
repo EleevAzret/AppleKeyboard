@@ -2,7 +2,7 @@
 Its Virtual Apple Keyboard. You can use you real keyboard to print, or use this virtual keyboard.
 
 <p align="center">
-      <img src="Project Logo Url" width="726">
+      <img src="https://ibb.co/D7wdwn5" width="726">
 </p>
 
 <p align="center">
